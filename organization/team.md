@@ -20,13 +20,14 @@ organizing Google Summer of Code for NumFOCUS.
 | Name           | GitHub Profile                                  |
 |----------------|-------------------------------------------------|
 | Ethan White    | [ethanwhite](https://github.com/ethanwhite)     |
-| Henry Senyondo | [henrykironde](https://github.com/henrykironde) |
+| Henry Senyondo | [henrykironde](https://github.com/henrykironde) not signed up yet| 
 
 
 #### FEniCS Project
 
-| Name               | GitHub Profile |
-|--------------------|----------------|
+| Name               | GitHub Profile                                        |
+|--------------------|-------------------------------------------------------|
+| Chris Richardson   | [chrisrichardson](https://github.com/chrisrichardson) |
 
 #### Gensim
 
@@ -39,8 +40,8 @@ organizing Google Summer of Code for NumFOCUS.
 
 | Name           | GitHub Profile                            |
 |----------------|-------------------------------------------|
-| Thomas Caswell | [tacaswell](https://github.com/tacaswell) |
-| Hannah         | [story645](https://github.com/story645)   |
+| Thomas Caswell | [tacaswell](https://github.com/tacaswell) not signed up yet |
+| Hannah         | [story645](https://github.com/story645)   not signed up yet|
 
 #### MDAnalysis
 
@@ -52,9 +53,10 @@ organizing Google Summer of Code for NumFOCUS.
 
 #### nteract
 
-| Name         | GitHub Profile                      |
-|--------------|-------------------------------------|
-| John Detlefs | [jdetle](https://github.com/jdetle) |
+| Name          | GitHub Profile                                  |
+|---------------|-------------------------------------------------|
+| John Detlefs  | [jdetle](https://github.com/jdetle)             |
+| Safia Abdalla | [captainsafia](https://github.com/captainsafia) |
 
 #### PyMC3
 
@@ -62,7 +64,7 @@ organizing Google Summer of Code for NumFOCUS.
 |------------------|-----------------------------------------------------|
 | Thomas Wiecki    | [twiecki](https://github.com/twiecki)               |
 | Austin Rochford  | [AustinRochford](https://github.com/AustinRochford) |
-| Colin Carroll    | [colcarroll](https://github.com/colcarroll)         |
+| Colin Carroll    | [colcarroll](https://github.com/colcarroll)     not signed up yet    |
 | Chris Fonnesbeck | [fonnesbeck](https://github.com/fonnesbeck)         |
 | Taku Yoshioka    | [taku-y](https://github.com/taku-y)                 |
 
