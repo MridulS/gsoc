@@ -20,7 +20,7 @@ organizing Google Summer of Code for NumFOCUS.
 | Name           | GitHub Profile                                  |
 |----------------|-------------------------------------------------|
 | Ethan White    | [ethanwhite](https://github.com/ethanwhite)     |
-| Henry Senyondo | [henrykironde](https://github.com/henrykironde) not signed up yet| 
+| Henry Senyondo | [henrykironde](https://github.com/henrykironde) |
 
 
 #### FEniCS Project
@@ -28,6 +28,7 @@ organizing Google Summer of Code for NumFOCUS.
 | Name               | GitHub Profile                                        |
 |--------------------|-------------------------------------------------------|
 | Chris Richardson   | [chrisrichardson](https://github.com/chrisrichardson) |
+| Martin Alnæs       | [martinal](https://github.com/martinal)               |
 
 #### Gensim
 
@@ -40,15 +41,16 @@ organizing Google Summer of Code for NumFOCUS.
 
 | Name           | GitHub Profile                            |
 |----------------|-------------------------------------------|
-| Thomas Caswell | [tacaswell](https://github.com/tacaswell) not signed up yet |
-| Hannah         | [story645](https://github.com/story645)   not signed up yet|
+| Hannah         | [story645](https://github.com/story645)   |
+| Thomas Caswell | [tacaswell](https://github.com/tacaswell) not signed up yet on google |
+
 
 #### MDAnalysis
 
 | Name              | GitHub Profile                                     |
 |-------------------|----------------------------------------------------|
 | Richard Gowers    | [richardjgowers](https://github.com/richardjgowers)|
-| Manuel  Nuno Melo | [mnmelo](https://github.com/mnmelo)                |
+| Manuel  Nuno Melo | [mnmelo](https://github.com/mnmelo)  not signed up yet on google |
 | Jonathon  Barnoud | [jbarnoud](https://github.com/jbarnoud)            |
 
 #### nteract
@@ -64,14 +66,15 @@ organizing Google Summer of Code for NumFOCUS.
 |------------------|-----------------------------------------------------|
 | Thomas Wiecki    | [twiecki](https://github.com/twiecki)               |
 | Austin Rochford  | [AustinRochford](https://github.com/AustinRochford) |
-| Colin Carroll    | [colcarroll](https://github.com/colcarroll)     not signed up yet    |
+| Colin Carroll    | [colcarroll](https://github.com/colcarroll)         |
 | Chris Fonnesbeck | [fonnesbeck](https://github.com/fonnesbeck)         |
 | Taku Yoshioka    | [taku-y](https://github.com/taku-y)                 |
 
 #### Stan
 
-| Name               | GitHub Profile |
-|--------------------|----------------|
+| Name               | GitHub Profile                          |
+|--------------------|-----------------------------------------|
+| Krzysztof Sakrejda | [sakrejda](https://github.com/sakrejda) not signed up yet on google |
 
 
 ## 2016
