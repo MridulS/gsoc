@@ -15,6 +15,12 @@ organizing Google Summer of Code for NumFOCUS.
 
 ### Mentors
 
+#### conda-forge
+
+| Name               | GitHub Profile                                  |
+|--------------------|-------------------------------------------------|
+| Filipe Fernandes   | [ocefpaf](https://github.com/ocefpaf)           |
+
 #### Data Retriever
 
 | Name           | GitHub Profile                                  |
@@ -29,6 +35,8 @@ organizing Google Summer of Code for NumFOCUS.
 |--------------------|-------------------------------------------------------|
 | Chris Richardson   | [chrisrichardson](https://github.com/chrisrichardson) |
 | Martin Alnæs       | [martinal](https://github.com/martinal)               |
+| Jack S. Hale       | [jhale](https://github.com/jhale)                     |
+| David E. DeMarle   | [demarle](https://github.com/demarle)                 |
 
 #### Gensim
 
@@ -36,6 +44,7 @@ organizing Google Summer of Code for NumFOCUS.
 |----------------------|--------------------------------------------|
 | Lev Konstantinovskiy | [tmylk](https://github.com/tmylk)          |
 | Radim Řehůřek        | [piskvorky](https://github.com/piskvorky)  |
+| Jayant Jain          | [jayantj](https://github.com/jayantj) not signed up yet on google |
 
 #### matplotlib
 
@@ -47,11 +56,11 @@ organizing Google Summer of Code for NumFOCUS.
 
 #### MDAnalysis
 
-| Name              | GitHub Profile                                     |
-|-------------------|----------------------------------------------------|
-| Richard Gowers    | [richardjgowers](https://github.com/richardjgowers)|
-| Manuel  Nuno Melo | [mnmelo](https://github.com/mnmelo)  not signed up yet on google |
-| Jonathon  Barnoud | [jbarnoud](https://github.com/jbarnoud)            |
+| Name             | GitHub Profile                                     |
+|------------------|----------------------------------------------------|
+| Richard Gowers   | [richardjgowers](https://github.com/richardjgowers)|
+| Manuel Nuno Melo | [mnmelo](https://github.com/mnmelo)                |
+| Jonathon Barnoud | [jbarnoud](https://github.com/jbarnoud)            |
 
 #### nteract
 
@@ -69,12 +78,13 @@ organizing Google Summer of Code for NumFOCUS.
 | Colin Carroll    | [colcarroll](https://github.com/colcarroll)         |
 | Chris Fonnesbeck | [fonnesbeck](https://github.com/fonnesbeck)         |
 | Taku Yoshioka    | [taku-y](https://github.com/taku-y)                 |
+| John Salvatier   | [jsalvatier](https://github.com/jsalvatier)         |
 
 #### Stan
 
 | Name               | GitHub Profile                          |
 |--------------------|-----------------------------------------|
-| Krzysztof Sakrejda | [sakrejda](https://github.com/sakrejda) not signed up yet on google |
+| Krzysztof Sakrejda | [sakrejda](https://github.com/sakrejda) |
 
 
 ## 2016
